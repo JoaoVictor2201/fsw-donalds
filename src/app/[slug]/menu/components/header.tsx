@@ -20,7 +20,7 @@ const RestaurantHeader = ({ restaurant }: RestaurantHeaderProps) => {
       <Button
         variant="secondary"
         size="icon"
-        className="absolute left-4 top-4 z-50 rounded-full"
+        className="absolute left-4 top-4 z-40 rounded-full"
         onClick={handleBackPage}
       >
         <ChevronLeftIcon />
